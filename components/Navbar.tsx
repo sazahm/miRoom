@@ -29,7 +29,7 @@ const Navbar = () => {
                         <Box className="logo" />
 
                         <span className="name">
-                            DeRoom
+                            miRoom
                         </span>
                     </div>
 
