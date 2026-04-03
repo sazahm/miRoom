@@ -2,10 +2,8 @@ import type { Route } from "./+types/home";
 import Navbar from "../../components/Navbar";
 import {ArrowRight, ArrowUpRight, Clock, Layers} from "lucide-react";
 import {Button} from "../../components/ui/Button";
-import {signIn} from "../../lib/puter.action";
 import Upload from "../../components/Upload";
 import {useNavigate} from "react-router";
-import {runInNewContext} from "node:vm";
 
 export function meta({}: Route.MetaArgs) {
   return [
