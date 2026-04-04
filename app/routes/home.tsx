@@ -68,13 +68,13 @@ export default function Home() {
                         <div className="pulse"></div>
                     </div>
 
-                    <p>Introducing Roomify 2.0</p>
+                    <p>Introducing miRoom 2.0</p>
                 </div>
 
-                <h1>Build beautiful spaces at the speed of thought with Roomify</h1>
+                <h1>Build beautiful spaces at the speed of thought with miRoom</h1>
 
                 <p className="subtitle">
-                    Roomify is an AI-first design environment that helps you visualize, render, and ship architectural projects faster  than ever.
+                    miRoom is an AI-first design environment that helps you visualize, render, and ship architectural projects faster  than ever.
                 </p>
 
                 <div className="actions">
